@@ -1,4 +1,4 @@
-name: PMirrorBot Environment
+name: LeechBot Environment
 
 on:
   push:
